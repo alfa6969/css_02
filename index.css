@@ -1,0 +1,26 @@
+import url("https://fonts.googleapis.com/css?family=Hanalei+Fill|Montserrat');
+
+
+
+
+
+
+body {
+    max-width: 800px;
+    margin: auto;
+}
+
+header nav ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+header nav ul li {
+    list-style-type: none;
+}
+
+
+
+
+
+
+
